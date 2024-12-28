@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **too many side projects**
 
-- 🌱 I’m currently learning **game engine development and web development**
+- 🌱 I’m currently learning **game engine development and various algorithms**
 
 - 💬 Ask me about **C and C++**
 
-- 📫 How to reach me **nox@noxsoftware.pl**
+- 📫 Reach me at **nox@noxsoftware.pl**
 
-- ⚡ Languages I know **Polish and English**
+- ⚡ Languages I know are **Polish and English**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
