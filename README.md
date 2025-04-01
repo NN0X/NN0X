@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NoX</h1>
-<h3 align="center">Student at Cracow University of Technology (currently looking for a job)</h3>
+<h3 align="center">Student at Cracow University of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nn0x&label=Profile%20views&color=613583&style=flat" alt="nn0x" /> </p>
 
