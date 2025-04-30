@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nn0x" alt="nn0x" /></a> </p>
 
-- Contact me via Discord **__nox_**
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adb" height="30" width="40" /></a> Contact me via Discord: **\_\_nox\_**
 
-- or via email [nox@noxsoftware.pl](nox@noxsoftware.pl)
+- &nbsp;&nbsp; 📧 &nbsp; &nbsp;or via email: [nox@noxsoftware.pl](nox@noxsoftware.pl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
