@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm NoX</h1>
 <h3 align="center">Student at Cracow University of Technology and Software Developer Intern at IBM</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nn0x" alt="nn0x" /></a> </p>
-
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adb" height="30" width="40" /></a> Contact me via Discord: **\_\_nox\_**
 
 - &nbsp;&nbsp; 📧 &nbsp; &nbsp;or via email: [nox@noxsoftware.pl](nox@noxsoftware.pl)
