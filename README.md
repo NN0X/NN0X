@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NoX</h1>
-<h3 align="center">Student at Cracow University of Technology and Software Developer Intern at IBM</h3>
+<h3 align="center">Student at Cracow University of Technology and Associate Software Engineer at IBM</h3>
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adb" height="30" width="40" /></a> Contact me via Discord: **\_\_nox\_**
 
